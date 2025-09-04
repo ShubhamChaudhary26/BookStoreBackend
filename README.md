@@ -8,6 +8,17 @@
 
 <img width="1871" height="897" alt="Screenshot 2025-09-04 140417" src="https://github.com/user-attachments/assets/bc5023dc-1695-4057-b312-6f89f0ae433d" />
 
+##  Demo Login Accounts
+Default accounts for testing:
+
+###  Student
+- Email: **shubham@gmail.com**  
+- Password: **shubham**
+
+###  Librarian (Admin)
+- Email: **admin@gmail.com**  
+- Password: **admin**
+
 
 ```markdown
 # Student Library Management System – Backend
